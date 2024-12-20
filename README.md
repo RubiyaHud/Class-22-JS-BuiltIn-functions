@@ -8,4 +8,7 @@
 6. fadeToggle()
 7. slideUp()
 8. slideDown()
-9. slideToggle()        
+9. slideToggle()
+10. addClass("class_name")
+11. removeClass("class_name")
+12. toggleClass("class_name")  [add/remove toggle function that can add/remove the given class]
