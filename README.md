@@ -1,1 +1,1 @@
-# Class-22-JS-BuiltIn-functions
+### <ins>**JavaScript Builtin Functions** </ins>
